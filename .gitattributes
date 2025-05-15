@@ -1,0 +1,4 @@
+*.py filter=lfs diff=lfs merge=lfs -text
+nets/** !text !filter !merge !diff
+predicts/** !text !filter !merge !diff
+utils/** !text !filter !merge !diff
