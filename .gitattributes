@@ -1,0 +1,3 @@
+nets/** !text !filter !merge !diff
+predicts/** !text !filter !merge !diff
+utils/** !text !filter !merge !diff
